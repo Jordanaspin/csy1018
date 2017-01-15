@@ -91,3 +91,12 @@ ul {
     float: left;
     margin-right: 1em;
 }
+
+/*contact*/
+.form {
+  display: block;
+  border-radius: 15px;
+  background: rgba(255, 107, 0, 0.68);
+  float: left;
+
+}
