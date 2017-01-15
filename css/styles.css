@@ -38,6 +38,9 @@ body {
     font-size: 0.7em;
     }
 
+
+/* inspiration from http://www.w3schools.com/css/css_navbar.asp*/
+
 .nav ul {
     list-style-type: none;
     margin: 0;
@@ -103,6 +106,8 @@ ul {
 
 
 /*contact*/
+
+/* inspiration from http://www.w3schools.com/html/html_forms.asp*/
 
 .form {
     display: block;
