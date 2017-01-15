@@ -81,3 +81,11 @@ img {
 ul {
     list-style-type: none;
 }
+
+
+/*bio*/
+
+.floatleft {
+    float: left;
+    margin-right: 1em;
+}
